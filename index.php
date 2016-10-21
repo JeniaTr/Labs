@@ -1,14 +1,7 @@
 <?php
-echo 'dsfdsfsdfsdfsd';
-
-
-
-
+echo '<br>';
+echo '<h1>Первый страниц</h1>';
+echo '<br>';
+echo '<br>';
 
 ?>
-/**
- * Created by PhpStorm.
- * User: jenia
- * Date: 21.10.16
- * Time: 13:47
- */
